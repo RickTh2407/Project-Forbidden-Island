@@ -8,5 +8,10 @@ namespace Forbidden_Island.BusinessLayer
 {
     internal class Treasure
     {
+        private List<Treasure> TreasureCollection { get; set; }
+        private bool TreasureCollected { get; set; } = false;
+        //database
+        private int TreasureId { get; set; }
+        private string TreasureType { get; set; }
     }
 }

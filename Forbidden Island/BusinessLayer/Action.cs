@@ -9,5 +9,19 @@ namespace Forbidden_Island.BusinessLayer
     internal class Action
     {
         private Enum Move { get; set; }
+        private int ActionCount { get; set; } = 3;
+
+        public int DrainFlood(int actionCount)
+        {
+            actionCount = ActionCount;
+
+            //Code where flooded Islandtile turns to normal
+            actionCount = actionCount - 1;
+            return actionCount;
+        }
+        public void CheckTreasureAmount()
+        {
+
+        }
     }
 }
