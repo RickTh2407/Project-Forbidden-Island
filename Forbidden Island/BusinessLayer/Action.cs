@@ -8,7 +8,7 @@ namespace Forbidden_Island.BusinessLayer
 {
     internal class Action
     {
-        private Enum Move { get; set; }
+        private MoveDirection MoveDirection { get; set; }
         private int ActionCount { get; set; } = 3;
 
         public int DrainFlood(int actionCount)

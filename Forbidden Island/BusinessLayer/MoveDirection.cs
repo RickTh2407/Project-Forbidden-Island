@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forbidden_Island.BusinessLayer
 {
-    enum Move
+    enum MoveDirection
     {
         Up,
         Down,

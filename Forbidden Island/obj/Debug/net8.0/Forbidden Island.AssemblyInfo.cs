@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forbidden Island")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00801ae304b46a177aac6a37104260f91cf3c0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e27a491cc0416a3e3a6c76e8f547bcdc50bb30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forbidden Island")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forbidden Island")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

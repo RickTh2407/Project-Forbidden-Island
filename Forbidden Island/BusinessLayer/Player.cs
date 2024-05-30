@@ -9,7 +9,7 @@ namespace Forbidden_Island.BusinessLayer
 {
     internal class Player
     {
-        private List<Player> PlayerColour { get; set; }
+        //private List<Player> PlayerColour { get; set; }
         private List<Player> RedInventory { get; set; }
         private List<Player> BlueInventory { get; set; }
         private List<Player> YellowInventory { get; set; }
