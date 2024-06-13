@@ -3,46 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island\\businesslayer\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41373D9A-E773-46C6-873D-C4AA62AAF11A}|..\\Forbidden Island Form\\Forbidden Island Form.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\flood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\flood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41373D9A-E773-46C6-873D-C4AA62AAF11A}|..\\Forbidden Island Form\\Forbidden Island Form.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island form\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\treasurecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\treasurecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\movedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\movedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\treasurecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\treasurecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\islandtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\islandtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island\\businesslayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island\\businesslayer\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island\\businesslayer\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\flood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\flood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41373D9A-E773-46C6-873D-C4AA62AAF11A}|..\\Forbidden Island Form\\Forbidden Island Form.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island form\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41373D9A-E773-46C6-873D-C4AA62AAF11A}|..\\Forbidden Island Form\\Forbidden Island Form.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island form\\maingame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41373D9A-E773-46C6-873D-C4AA62AAF11A}|..\\Forbidden Island Form\\Forbidden Island Form.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41373D9A-E773-46C6-873D-C4AA62AAF11A}|..\\Forbidden Island Form\\Forbidden Island Form.csproj|c:\\users\\rickt\\source\\repos\\project-forbidden-island\\forbidden island form\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\businesslayer\\movedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A35595-FDA8-4F82-B2BE-E2AB8D1D924F}|Forbidden Island.csproj|solutionrelative:businesslayer\\movedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,32 +90,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainGame.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.cs",
-              "RelativeDocumentMoniker": "..\\Forbidden Island Form\\MainGame.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.cs [Design]",
-              "RelativeToolTip": "..\\Forbidden Island Form\\MainGame.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Role.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Role.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Role.cs",
+              "RelativeToolTip": "BusinessLayer\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:41:28.511Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Forbidden Island Form\\Program.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\Program.cs",
-              "RelativeToolTip": "..\\Forbidden Island Form\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:03:38.205Z",
+              "WhenOpened": "2024-06-12T15:23:34.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\ActionType.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ActionType.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\ActionType.cs",
+              "RelativeToolTip": "BusinessLayer\\ActionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:22:17.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.cs",
+              "RelativeDocumentMoniker": "..\\Forbidden Island Form\\MainGame.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.cs",
+              "RelativeToolTip": "..\\Forbidden Island Form\\MainGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:07:10.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Game.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Game.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Game.cs",
+              "RelativeToolTip": "BusinessLayer\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:46:46.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IslandTile.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\IslandTile.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\IslandTile.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\IslandTile.cs",
+              "RelativeToolTip": "BusinessLayer\\IslandTile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:16:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Flood.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Flood.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Flood.cs",
@@ -106,58 +168,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MoveDirection.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\MoveDirection.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\MoveDirection.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\MoveDirection.cs",
-              "RelativeToolTip": "BusinessLayer\\MoveDirection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Player.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Player.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Player.cs",
+              "RelativeToolTip": "BusinessLayer\\Player.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:29:43.767Z",
+              "WhenOpened": "2024-05-21T12:17:18.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Board.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Board.cs",
               "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Board.cs",
               "RelativeToolTip": "BusinessLayer\\Board.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T10:19:58.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\DataAccessLayer\\DAL.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DAL.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\DataAccessLayer\\DAL.cs",
-              "RelativeToolTip": "DataAccessLayer\\DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:16:30.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TreasureCard.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\TreasureCard.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\TreasureCard.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\TreasureCard.cs",
-              "RelativeToolTip": "BusinessLayer\\TreasureCard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:18:21.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Treasure.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Treasure.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Treasure.cs",
@@ -170,42 +207,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IslandTile.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\IslandTile.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\IslandTile.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\IslandTile.cs",
-              "RelativeToolTip": "BusinessLayer\\IslandTile.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "TreasureCard.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\TreasureCard.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\TreasureCard.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\TreasureCard.cs",
+              "RelativeToolTip": "BusinessLayer\\TreasureCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:16:52.535Z",
+              "WhenOpened": "2024-05-21T12:18:21.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Player.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Player.cs",
-              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Player.cs",
-              "RelativeToolTip": "BusinessLayer\\Player.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:17:18.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Action.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Action.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Action.cs",
               "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\Action.cs",
               "RelativeToolTip": "BusinessLayer\\Action.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T12:17:07.91Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Forbidden Island Form\\MainGame.Designer.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.Designer.cs",
+              "RelativeToolTip": "..\\Forbidden Island Form\\MainGame.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:57:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\DataAccessLayer\\DAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAL.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\DataAccessLayer\\DAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:16:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-12T14:40:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Forbidden Island Form\\Program.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\Program.cs",
+              "RelativeToolTip": "..\\Forbidden Island Form\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:03:38.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MoveDirection.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\MoveDirection.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\MoveDirection.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island\\BusinessLayer\\MoveDirection.cs",
+              "RelativeToolTip": "BusinessLayer\\MoveDirection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:29:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.cs",
+              "RelativeDocumentMoniker": "..\\Forbidden Island Form\\MainGame.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-Forbidden-Island\\Forbidden Island Form\\MainGame.cs [Design]",
+              "RelativeToolTip": "..\\Forbidden Island Form\\MainGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:41:28.511Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
