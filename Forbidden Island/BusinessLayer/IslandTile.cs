@@ -32,7 +32,7 @@ namespace Forbidden_Island.BusinessLayer
         {
             if (Flooded)
             {
-                Disappeared = true
+                Disappeared = true;
             }
         }
     }
